@@ -4,64 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b7a97d-c4b9-4b11-a57d-76ef46cdfc2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/常用API/Demo01SF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/常用API/Demo02SF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/常用API/Demo03System.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/异常/Demo01Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/异常/Demo02Finally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/异常/Demo03throws.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/异常/基本定义" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/枚举与接口/InterFace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/枚举与接口/MeiJu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/枚举与接口/MeiJu1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/枚举与接口/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/算法/Demo02serach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/算法/Demo03test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/算法/Demo04Binaryserach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/算法/Demo05blockSerach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/算法/Demo06maopao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/算法/Demoo1lamda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/Hashset/Demo02set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/Hashset/Demo10HasSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/Hashset/Demo11HashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/Hashset/Demo12LinkedHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/Hashset/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/Msp/Demo01MapAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/Msp/Demo02Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/Msp/Demo03Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/Msp/Demo04Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/collection/Demo01collection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/collection/Demo03List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/collection/Demo04bianli.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/collection/Demo05zengqiangFOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/generisc/Demo06generics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/generisc/Demo07genericsfunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/generisc/Demo08genericsInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/generisc/Demo09enericsTongPeiFu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/testgenerics/BoSiCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/testgenerics/HusKyDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/testgenerics/LiHuaCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/testgenerics/TeddyDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/testgenerics/animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/testgenerics/cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/testgenerics/dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/testgenerics/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/treeset/Demo01treeset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/treeset/Demo02TreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/treeset/Demo03TreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/treeset/Demo04TreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/treeset/Student1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/集合/treeset/student2.java" afterDir="false" />
+    <list default="true" id="e3b7a97d-c4b9-4b11-a57d-76ef46cdfc2b" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,23 +44,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\cb\testJava\src\source" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Demo01MapAPI">
+  <component name="RunManager" selected="Application.Demo01MapAPI">
     <configuration name="Demo01MapAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="集合.Msp.Demo01MapAPI" />
       <module name="testJava" />
@@ -205,6 +149,14 @@
       <option name="presentableId" value="Default" />
       <updated>1678517568031</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changes">
+      <created>1680788196103</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680788196103</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,7 +200,26 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Data/master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
         <entry key="d28fe904-f161-4a8f-853a-9f834b5ea439">
@@ -265,6 +236,22 @@
     </option>
     <option name="RECENT_FILTERS">
       <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
         <entry key="Paths">
           <value>
             <list>
@@ -289,6 +276,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
