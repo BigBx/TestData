@@ -1,5 +1,7 @@
 package 集合.treeset;
-
+/*
+hao
+ */
 public class student2 implements Comparable<student2> {
     private String name;
     private int Chinese;
@@ -43,7 +45,9 @@ public class student2 implements Comparable<student2> {
     public void setEnglish(int english) {
         English = english;
     }
-
+/*
+hao
+ */
     @Override
     public int compareTo(student2 o) {
         int sum1=this.getChinese()+this.getEnglish()+this.getMath();
