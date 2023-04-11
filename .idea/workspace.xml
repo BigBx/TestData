@@ -4,61 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b7a97d-c4b9-4b11-a57d-76ef46cdfc2b" name="Changes" comment="修改">
-      <change afterPath="$PROJECT_DIR$/src/study/javase/Stresm流/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/javase/Stresm流/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/javase/Stresm流/Demo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/javase/集合/Msp/Demo05test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/常用API/Demo01SF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/常用API/Demo01SF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/常用API/Demo02SF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/常用API/Demo02SF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/常用API/Demo03System.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/常用API/Demo03System.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/异常/Demo01Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/异常/Demo01Exception.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/异常/Demo02Finally.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/异常/Demo02Finally.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/异常/Demo03throws.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/异常/Demo03throws.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/异常/基本定义" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/异常/基本定义" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/枚举与接口/InterFace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/枚举与接口/InterFace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/枚举与接口/MeiJu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/枚举与接口/MeiJu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/枚举与接口/MeiJu1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/枚举与接口/MeiJu1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/枚举与接口/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/枚举与接口/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/算法/Demo02serach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/算法/Demo02serach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/算法/Demo03test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/算法/Demo03test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/算法/Demo04Binaryserach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/算法/Demo04Binaryserach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/算法/Demo05blockSerach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/算法/Demo05blockSerach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/算法/Demo06maopao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/算法/Demo06maopao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/算法/Demoo1lamda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/算法/Demoo1lamda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/Hashset/Demo02set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/Hashset/Demo02set.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/Hashset/Demo10HasSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/Hashset/Demo10HasSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/Hashset/Demo11HashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/Hashset/Demo11HashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/Hashset/Demo12LinkedHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/Hashset/Demo12LinkedHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/Hashset/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/Hashset/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/Msp/Demo01MapAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/Msp/Demo01MapAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/Msp/Demo02Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/Msp/Demo02Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/Msp/Demo03Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/Msp/Demo03Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/Msp/Demo04Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/Msp/Demo04Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/collection/Demo01collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/collection/Demo01collection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/collection/Demo03List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/collection/Demo03List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/collection/Demo04bianli.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/collection/Demo04bianli.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/collection/Demo05zengqiangFOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/collection/Demo05zengqiangFOR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/generisc/Demo06generics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/generisc/Demo06generics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/generisc/Demo07genericsfunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/generisc/Demo07genericsfunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/generisc/Demo08genericsInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/generisc/Demo08genericsInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/generisc/Demo09enericsTongPeiFu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/generisc/Demo09enericsTongPeiFu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/testgenerics/BoSiCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/testgenerics/BoSiCat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/testgenerics/HusKyDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/testgenerics/HusKyDog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/testgenerics/LiHuaCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/testgenerics/LiHuaCat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/testgenerics/TeddyDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/testgenerics/TeddyDog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/testgenerics/animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/testgenerics/animals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/testgenerics/cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/testgenerics/cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/testgenerics/dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/testgenerics/dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/testgenerics/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/testgenerics/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/treeset/Demo01treeset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/treeset/Demo01treeset.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/treeset/Demo02TreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/treeset/Demo02TreeSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/treeset/Demo03TreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/treeset/Demo03TreeSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/treeset/Demo04TreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/treeset/Demo04TreeSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/treeset/Student1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/treeset/Student1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/集合/treeset/student2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/treeset/student2.java" afterDir="false" />
-    </list>
+    <list default="true" id="e3b7a97d-c4b9-4b11-a57d-76ef46cdfc2b" name="Changes" comment="修改" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681120240862</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="修改">
+      <created>1681130967772</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681130967772</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
