@@ -27,9 +27,9 @@ public class Demo04 {
 
             @Override
             public Integer apply(String s) {
-                s.split(" ");
-                String a=s[1];
-                int b=Integer.parseInt(a);
+                String[] str=s.split(" ");
+                String str1=str[1];
+                int b=Integer.parseInt(str1);
                 return b;
             }
         });
