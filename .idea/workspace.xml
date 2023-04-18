@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b7a97d-c4b9-4b11-a57d-76ef46cdfc2b" name="Changes" comment="修改" />
+    <list default="true" id="e3b7a97d-c4b9-4b11-a57d-76ef46cdfc2b" name="Changes" comment="修改">
+      <change afterPath="$PROJECT_DIR$/src/study/javase/Stresm流/Demo06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/javase/Stresm流/DemoTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/javase/Stresm流/DemoTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/javase/Stresm流/stream流.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/javase/集合/集合知识点汇总.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/javase/Stresm流/Demo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/Stresm流/Demo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/javase/集合/Msp/Demo01MapAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/Map/Demo01MapAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/javase/集合/Msp/Demo02Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/Map/Demo02Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/javase/集合/Msp/Demo03Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/Map/Demo03Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/javase/集合/Msp/Demo04Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/Map/Demo04Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/javase/集合/Msp/Demo05test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/javase/集合/Map/Demo05test1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,12 +70,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\cb\testJava\src\study\javase\Stresm流" />
+      <recent name="C:\cb\testJava\src\study\javase\集合" />
       <recent name="C:\cb\testJava\src\source" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo03">
-    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stresm流.Demo01" />
+  <component name="RunManager" selected="Application.DemoTest02 (2)">
+    <configuration name="Demo06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stresm流.Demo06" />
       <module name="testJava" />
       <extension name="coverage">
         <pattern>
@@ -74,21 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo01MapAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="集合.Msp.Demo01MapAPI" />
-      <module name="testJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="集合.Msp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stresm流.Demo02" />
+    <configuration name="DemoTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stresm流.DemoTest01" />
       <module name="testJava" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stresm流.Demo03" />
+    <configuration name="DemoTest02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stresm流.DemoTest02" />
       <module name="testJava" />
       <extension name="coverage">
         <pattern>
@@ -113,12 +115,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo11HashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="集合.Hashset.Demo11HashSet" />
+    <configuration name="DemoTest02 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stresm流.DemoTest02" />
       <module name="testJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="集合.Hashset.Student" />
+          <option name="PATTERN" value="Stresm流.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stresm流.DemoTest02" />
+      <module name="testJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stresm流.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,10 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo03" />
-        <item itemvalue="Application.Demo02" />
-        <item itemvalue="Application.Demo01" />
-        <item itemvalue="Application.Demo01MapAPI" />
+        <item itemvalue="Application.DemoTest02 (2)" />
+        <item itemvalue="Application.DemoTest02 (1)" />
+        <item itemvalue="Application.DemoTest02" />
+        <item itemvalue="Application.DemoTest01" />
+        <item itemvalue="Application.Demo06" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +188,28 @@
       <option name="project" value="LOCAL" />
       <updated>1681130967772</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="修改">
+      <created>1681205923218</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681205923218</updated>
+    </task>
+    <task id="LOCAL-00006" summary="修改">
+      <created>1681701138990</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681701138990</updated>
+    </task>
+    <task id="LOCAL-00007" summary="修改">
+      <created>1681701664058</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681701664058</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
